@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" role="img" aria-labelledby="title description">
+  <title id="title">Held — Know what you hold</title>
+  <desc id="description">Held product preview with the Scan, Verify, Value, Collect workflow.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#142743"/>
+      <stop offset="0.55" stop-color="#0a1224"/>
+      <stop offset="1" stop-color="#060912"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#45f1bd"/>
+      <stop offset="1" stop-color="#46c8ff"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a304d"/>
+      <stop offset="1" stop-color="#10172a"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="54"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#background)"/>
+  <circle cx="1150" cy="90" r="260" fill="#7452ff" opacity="0.18" filter="url(#blur)"/>
+  <circle cx="110" cy="620" r="280" fill="#45f1bd" opacity="0.13" filter="url(#blur)"/>
+  <path d="M0 488 C250 420 400 552 634 476 S1020 394 1280 474" fill="none" stroke="#45f1bd" stroke-opacity="0.1" stroke-width="2"/>
+
+  <g transform="translate(86 94)">
+    <rect width="232" height="232" rx="52" fill="url(#card)" stroke="#77fff0" stroke-opacity="0.16"/>
+    <rect x="64" y="42" width="105" height="147" rx="17" fill="none" stroke="url(#accent)" stroke-width="9"/>
+    <path d="M43 83V60c0-16 13-28 28-28h24M189 83V60c0-16-13-28-28-28h-24M43 149v23c0 16 13 28 28 28h24M189 149v23c0 16-13 28-28 28h-24" fill="none" stroke="#f4ffff" stroke-width="9" stroke-linecap="round"/>
+    <path d="M96 137c14 13 33 13 46-1 9-9 13-21 11-33-2-14-11-26-24-32-14-7-31-5-43 6" fill="none" stroke="url(#accent)" stroke-width="11" stroke-linecap="round"/>
+    <circle cx="158" cy="69" r="9" fill="#45f1bd"/>
+  </g>
+
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="374" y="130" fill="#52efc5" font-size="23" font-weight="800" letter-spacing="7">HELD</text>
+    <text x="370" y="223" fill="#ffffff" font-size="68" font-weight="800">Know what you hold.</text>
+    <text x="374" y="278" fill="#bdc8da" font-size="25" font-weight="500">Collectible discovery, verification, value research, and collection tracking.</text>
+
+    <g transform="translate(86 408)" font-size="20" font-weight="750">
+      <g>
+        <rect width="218" height="78" rx="23" fill="#15253b" stroke="#45f1bd" stroke-opacity="0.4"/>
+        <circle cx="39" cy="39" r="18" fill="#45f1bd" opacity="0.18"/>
+        <text x="74" y="47" fill="#f5ffff">SCAN</text>
+      </g>
+      <path d="M234 39h36" stroke="#718096" stroke-width="3" stroke-linecap="round"/>
+      <path d="m262 31 9 8-9 8" fill="none" stroke="#718096" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <g transform="translate(286)">
+        <rect width="218" height="78" rx="23" fill="#15253b" stroke="#45f1bd" stroke-opacity="0.4"/>
+        <circle cx="39" cy="39" r="18" fill="#45f1bd" opacity="0.18"/>
+        <text x="74" y="47" fill="#f5ffff">VERIFY</text>
+      </g>
+      <path d="M520 39h36" stroke="#718096" stroke-width="3" stroke-linecap="round"/>
+      <path d="m548 31 9 8-9 8" fill="none" stroke="#718096" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <g transform="translate(572)">
+        <rect width="218" height="78" rx="23" fill="#15253b" stroke="#45f1bd" stroke-opacity="0.4"/>
+        <circle cx="39" cy="39" r="18" fill="#45f1bd" opacity="0.18"/>
+        <text x="74" y="47" fill="#f5ffff">VALUE</text>
+      </g>
+      <path d="M806 39h36" stroke="#718096" stroke-width="3" stroke-linecap="round"/>
+      <path d="m834 31 9 8-9 8" fill="none" stroke="#718096" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <g transform="translate(858)">
+        <rect width="250" height="78" rx="23" fill="url(#accent)"/>
+        <circle cx="39" cy="39" r="18" fill="#07101f" opacity="0.16"/>
+        <text x="74" y="47" fill="#07101f">COLLECT</text>
+      </g>
+    </g>
+
+    <text x="86" y="560" fill="#8f9caf" font-size="20" font-weight="600">Active iPhone prototype · Private implementation</text>
+    <text x="1194" y="560" text-anchor="end" fill="#8f9caf" font-size="20" font-weight="600">Created by Carlin Jon Soorenian</text>
+  </g>
+</svg>
