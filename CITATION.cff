@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Held is proprietary software. Contact the creator before any use beyond viewing this public product showcase."
+title: "Held"
+type: software
+authors:
+  - family-names: "Soorenian"
+    given-names: "Carlin Jon"
+version: "2.4.4"
+date-released: "2026-08-27"
+url: "https://github.com/carlin335/Held"
+abstract: "An iPhone-first collectible companion for identifying, researching, valuing, and organizing cards, coins, wine, and other labeled collectibles."
+
