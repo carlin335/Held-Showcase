@@ -68,9 +68,9 @@ The prototype does not claim professional grading, authentication, counterfeit d
 ## Prototype gallery
 
 <p align="center">
-  <img width="210" alt="Held category-specific scanner" src="https://github.com/user-attachments/assets/069e490e-d60f-43a8-8c92-5afae66b61d8">
-  <img width="210" alt="Held market snapshot and item verification" src="https://github.com/user-attachments/assets/7f2c3e5a-c598-42af-a572-befc4801ff88">
-  <img width="210" alt="Held provider and on-device privacy settings" src="https://github.com/user-attachments/assets/4cf3633c-6f2f-457b-87c6-cc4bb6320dd1">
+  <img width="210" alt="Held home screen with collectible categories" src="screenshots/held-home.jpg">
+  <img width="210" alt="Held Pokémon scanner with verified match and market snapshot" src="screenshots/held-scan.jpg">
+  <img width="210" alt="Held item verification with live research sources" src="screenshots/held-verification.jpg">
 </p>
 
 ## Development history
