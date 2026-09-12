@@ -68,9 +68,9 @@ The prototype does not claim professional grading, authentication, counterfeit d
 ## Prototype gallery
 
 <p align="center">
-  <img width="210" alt="Held home screen with collectible categories" src="screenshots/held-home.jpg">
-  <img width="210" alt="Held Pokémon scanner with verified match and market snapshot" src="screenshots/held-scan.jpg">
-  <img width="210" alt="Held item verification with live research sources" src="screenshots/held-verification.jpg">
+  <img width="210" alt="IMG_5951 2" src="screenshots/IMG_5951-2.PNG">
+  <img width="210" alt="IMG_5995" src="screenshots/IMG_5995.PNG">
+  <img width="210" alt="IMG_6015" src="screenshots/IMG_6015.PNG">
 </p>
 
 ## Development history
